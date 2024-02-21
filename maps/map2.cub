@@ -1,0 +1,16 @@
+	
+  NO     ./assets/texture/Brick0.xpm
+SO       ./assets/texture/Wall2.xpm
+WE ./assets/texture/Wall4.xpm
+EA ./assets/texture/Wall5.xpm
+					
+F +225,255,255
+
+C 0,20,10
+														
+111111111111
+101000000001
+10F000101001
+10100E11111
+10000001111
+111111111111
